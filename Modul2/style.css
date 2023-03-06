@@ -1,0 +1,42 @@
+h1{
+    color: #ffa001;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*Selector dengan Elemen HTML*/ p {
+  text-align: center; color: red;
+}
+/*Selector dengan Id Elemen HTML*/
+#para1 {
+text-align: center; color: red;
+}
+/*Selector dengan Class Elemen HTML*/ p.center {
+text-align: center; color: red;
+}
+p.example {
+  font-family :Arial; font-size : 20px; color : lightcoral;
+  font-style : italic;
+  font-weight : bold;
+}
+h1.a {
+  text-align: center;
+}
+h2.a {
+  text-align: left;
+}
+h3.a {
+  text-align: right;
+}
+#teks{
+  color : #2F3CDF;
+}
+/*CSS Properties*/
+.section1{
+  background-color:lightgrey;
+  padding: 10px 5px 10px 5px;
+}
+.mark{
+  background-color:tomato;
+  font-style:italic; font-weight:bold;
+  padding: 10px 10px 10px 10px;
+}
