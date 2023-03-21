@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resep nama="roti" waktu_persiapan="5 menit" waktu_masak="3 jam">
+  <judul>Roti tawar</judul>
+  <bahan jumlah="3" satuan="cangkir">tepung</bahan>
+  <bahan jumlah="0,25" satuan="ons">ragi</bahan>
+  <bahan jumlah="1,5" satuan="cangkir">air hangat</bahan>
+  <bahan jumlah="1" satuan="sendok teh">garam</bahan>
+  <Cara_membuat>
+    <langkah>Campur semua bahan dan uleni adonan sampai merata.</langkah>
+    <langkah>Tutup dengan kain lembap dan biarkan selama satu jam di ruangan yang hangat.</langkah>
+    <langkah>Ulangi lagi, letakkan di loyang dan panggang dioven.</langkah>
+    <langkah>Keluarkan, hidangkan</langkah>
+  </Cara_membuat>
+</Resep>
