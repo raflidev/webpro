@@ -9,6 +9,4 @@ $arrKota[] = "Medan";
 $arrKota[] = "Bandung";
 $arrKota[] = "Malang";
 $arrKota[] = "Sulawesi";
-echo $arrKota[1] .
-  "<br>";
-"<br>";
+echo $arrKota[1] . "<br>";
